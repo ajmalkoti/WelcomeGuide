@@ -1,6 +1,7 @@
 This repository serves as a starting guide. 
 
-## About Us
+## [About Us](about_us.md)
+
 ## Official Procedure
 * Joining For
   * Permanent Staff
