@@ -1,7 +1,10 @@
 This repository serves as a starting guide. 
 
 ## About Us
-Office timings
+## Official Procedure
+* Joining For
+  * Permanent Staff
+  * Temporary Staff (Project Associate, Project Scientist, JRF/SRF)
 
 
 ## Facilities available
@@ -10,4 +13,7 @@ Office timings
 * Computers
 * Mail
 * Keys
-* Seminar 
+* Seminar
+* Booking the Conference Hall/E-Class Room
+* Medical Facilities
+  
